@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/aeec36adb7863bf480f11.png" alt="HanaaCanss-MD" width="300" />
 
 </p>
-<h1 align="center">Hanaa Cansss</h1>
+<h1 align="center">Justynn Kunzz</h1>
 
 >
 >
@@ -55,6 +55,12 @@ WhatsApp Bot Multi Device
 [Hanaa](https://github.com/HanaaCanss)
  Recoders
  
+# Me
+[![Hanaa](https://github.com/JustynKunzz.png?size=200)](https://github.com/JustynKunzz)
+|----|
+[Hanaa](https://github.com/JustynKunzz)
+ Sayaa
+
 ### Hyzer Statistics
 
 [![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanaaCanss&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
