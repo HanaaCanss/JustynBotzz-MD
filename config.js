@@ -1,20 +1,20 @@
 //=============『 Utama 』================== //
-global.owner = ['6281270275370','6281267758318'] 
+global.owner = ['6289699296815','6285822367293'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'HanaaCanss'
-global.numberowner = '6281270275470'
+global.nameowner = '𝙅𝙪𝙨𝙩𝙮𝙣 𝘽𝙤𝙩𝙯𝙯'
+global.numberowner = '6289699296815'
 global.instagram = 'NOT FOUND'
 global.github = 'PRIVATE'
-global.dana = '083187631714'
-global.pulsa = '083187631714'
-global.gopay = '083187631714'
+global.dana = '089699296815'
+global.pulsa = '089699296815'
+global.gopay = '089699296815'
 global.saweria = 'https://saweria.co/HanaaCanss'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'HanaaaBotzz'
+global.namebot = '𝙅𝙪𝙨𝙩𝙮𝙣 𝘽𝙤𝙩𝙯𝙯'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
 global.web = 'api.hanaacanss.ml' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
